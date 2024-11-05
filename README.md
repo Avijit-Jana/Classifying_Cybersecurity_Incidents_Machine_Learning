@@ -14,12 +14,9 @@ You need to train the model using the train.csv dataset and provide evaluation m
 ## Data Set Explanation:
 
  The GUIDE dataset contains records of cybersecurity incidents along with their corresponding triage grades (TP, BP, FP) based on historical evidence and customer responses. Preprocessing steps may include:
- - **Handling Missing Data:** Identifying and addressing any missing values in the
- dataset.
- - **Feature Engineering:** Creating new features or modifying existing ones to
- improve model performance, such as combining related features or encoding
- categorical variables.
+ - **Handling Missing Data:** Identifying and addressing any missing values in the dataset.
+ - **Feature Engineering:** Creating new features or modifying existing ones to improve model performance, such as combining related features or encoding categorical variables.
  - **Normalization/Standardization:** Scaling numerical features to ensure that all input data is on a similar scale, which can be important for certain machine learning models.
-## [Dataset Overview](https://www.kaggle.com/datasets/Microsoft/microsoft-security-incident-prediction?select=GUIDE_Test.csv)
+-  Dataset Link : [**Datasets**](https://www.kaggle.com/datasets/Microsoft/microsoft-security-incident-prediction?select=GUIDE_Test.csv)
 
 <h3 align="center">Developed By - Avijit Jana</h3>
