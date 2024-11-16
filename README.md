@@ -5,11 +5,13 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Avijit-Jana/Classifying_Cybersecurity_Incidents_Machine_Learning?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Avijit-Jana/Classifying_Cybersecurity_Incidents_Machine_Learning?color=red&style=plastic)
 
+[dataset](#data-set-overview)
+
 ## 📖Project Description 
 
 This is a Data Science Project to enhance the efficiency of Security Operation Centers (SOCs) by developing a machine learning model that can accurately predict the triage grade of cybersecurity incidents. Utilizing the comprehensive dataset, the goal is to create a classification model that categorizes incidents as true positive (TP), benign positive (BP), or false positive (FP) based on historical evidence and customer responses. The model should be robust enough to support guided response systems in providing SOC analysts with precise, context-rich recommendations, ultimately improving the overall security posture of enterprise environments.
 
-## 📁Data Set Overview:
+## 📁Data Set Overview
 
  There are three hierarchies of data: (1) evidence, (2) alert, and (3) incident. At the bottom level, evidence supports an alert. For example, an alert may be associated with multiple pieces of evidence such as an IP address, email, and user details, each containing specific supporting metadata. Above that, we have alerts that consolidate multiple pieces of evidence to signify a potential security incident. These alerts provide a broader context by aggregating related evidences to present a more comprehensive picture of the potential threat. At the highest level, incidents encompass one or more alerts, representing a cohesive narrative of a security breach or threat scenario. 
  
