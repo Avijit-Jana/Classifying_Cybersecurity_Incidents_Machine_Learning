@@ -15,9 +15,6 @@ This is a Data Science Project to enhance the efficiency of Security Operation C
  
  The primary objective of the dataset is to accurately predict incident triage grades—true positive (TP), benign positive (BP), and false positive (FP)—based on historical customer responses. To support this, we provide a training dataset containing 45 features, labels, and unique identifiers across 1M triage-annotated incidents. We divide the dataset into a train set containing 70% of the data and a test set with 30%, stratified based on triage grade ground-truth, OrgId, and DetectorId. We ensure that incidents are stratified together within the train and test sets to ensure the relevance of evidence and alert rows.
 
-## 📂Data Set Explanation:
-
- The dataset contains records of cybersecurity incidents along with their corresponding triage grades (TP, BP, FP) based on historical evidence and customer responses.
--  Dataset Link : [**Datasets**](https://www.kaggle.com/datasets/Microsoft/microsoft-security-incident-prediction?select=GUIDE_Test.csv)
+- You can download the datasets from here : [**Datasets**](https://www.kaggle.com/datasets/Microsoft/microsoft-security-incident-prediction?select=GUIDE_Test.csv)
 
 <h3 align="center">Developed By - Avijit Jana</h3>
