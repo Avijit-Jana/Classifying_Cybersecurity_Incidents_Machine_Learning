@@ -25,6 +25,6 @@ This is a Data Science Project to enhance the efficiency of Security Operation C
 
 ## 🚩Approach
 
-- This project is divided in 3 segments in our notebooks. 
+- Checkout the [**Approach file**](https://github.com/Avijit-Jana/Classifying_Cybersecurity_Incidents_Machine_Learning/Approach.md)
 
 <h3 align="center">Developed By - Avijit Jana</h3>
