@@ -1,4 +1,4 @@
-<h1 align="center">Code of Conduct📝</h1>
+<h1 align="center">📝Code of Conduct📝</h1>
 
 ## Purpose🚀
 This repository is a place for learning, sharing, and contributing to the development of quality software. The purpose of this Code of Conduct is to ensure that all contributions are done with the understanding of the content and context. Simply copying code without comprehension hinders both personal growth and the integrity of the project.
