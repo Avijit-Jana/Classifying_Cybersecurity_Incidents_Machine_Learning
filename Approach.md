@@ -1,5 +1,16 @@
-<h1 align="center">This is a step by step Guidance for This Project</h1>
+<h1>Table Of Contents</h1>
 
+- [Data Exploration & EDA](#DataExploration&EDA)
+- [Data Preprocessing](#DataPreprocessing)
+- [Model Training & Evaluation](#ModelTraining&Evaluation)
+
+<h1 align="center">Data Exploration & EDA</h1>
+
+1. **Load the data :** First we import some libraries and load the big dataset
+
+<h1 align="center">Data Preprocessing</h1>
+
+- **Zip File** : The processed data is in zip file, you can unzip the cleaned_data.zip and you look for the rest of the work.
 
 <h1 align="center">Model Training & Evaluation</h1>
 
