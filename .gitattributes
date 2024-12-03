@@ -1,1 +1,2 @@
 NoteBooks/cleaned_data.zip filter=lfs diff=lfs merge=lfs -text
+NoteBooks/model.pkl filter=lfs diff=lfs merge=lfs -text
